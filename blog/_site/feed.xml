@@ -4,10 +4,10 @@
     <title>DONNEURS D&apos;ORDRE &amp; SOUS TRAITANTS</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 05 Mar 2025 16:30:39 +0100</pubDate>
-    <lastBuildDate>Wed, 05 Mar 2025 16:30:39 +0100</lastBuildDate>
+    <link>https://dost-pro.github.io/blog//</link>
+    <atom:link href="https://dost-pro.github.io/blog//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 05 Mar 2025 19:52:22 +0100</pubDate>
+    <lastBuildDate>Wed, 05 Mar 2025 19:52:22 +0100</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Sat, 14 Nov 2015 17:52:07 +0100</pubDate>
-        <link>http://localhost:4000/jekyll/update/2015/11/14/welcome-to-jekyll4.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2015/11/14/welcome-to-jekyll4.html</guid>
+        <link>https://dost-pro.github.io/blog//jekyll/update/2015/11/14/welcome-to-jekyll4.html</link>
+        <guid isPermaLink="true">https://dost-pro.github.io/blog//jekyll/update/2015/11/14/welcome-to-jekyll4.html</guid>
         
         <category>jekyll</category>
         
@@ -60,8 +60,8 @@
 
 </description>
         <pubDate>Sat, 14 Nov 2015 17:52:07 +0100</pubDate>
-        <link>http://localhost:4000/jekyll/update/2015/11/14/welcome-to-jekyll3.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2015/11/14/welcome-to-jekyll3.html</guid>
+        <link>https://dost-pro.github.io/blog//jekyll/update/2015/11/14/welcome-to-jekyll3.html</link>
+        <guid isPermaLink="true">https://dost-pro.github.io/blog//jekyll/update/2015/11/14/welcome-to-jekyll3.html</guid>
         
         <category>jekyll</category>
         
@@ -92,8 +92,8 @@
 
 </description>
         <pubDate>Sat, 14 Nov 2015 17:52:07 +0100</pubDate>
-        <link>http://localhost:4000/jekyll/update/2015/11/14/welcome-to-jekyll2.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2015/11/14/welcome-to-jekyll2.html</guid>
+        <link>https://dost-pro.github.io/blog//jekyll/update/2015/11/14/welcome-to-jekyll2.html</link>
+        <guid isPermaLink="true">https://dost-pro.github.io/blog//jekyll/update/2015/11/14/welcome-to-jekyll2.html</guid>
         
         <category>jekyll</category>
         
@@ -124,8 +124,8 @@
 
 </description>
         <pubDate>Sat, 14 Nov 2015 17:52:07 +0100</pubDate>
-        <link>http://localhost:4000/jekyll/update/2015/11/14/welcome-to-jekyll1.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2015/11/14/welcome-to-jekyll1.html</guid>
+        <link>https://dost-pro.github.io/blog//jekyll/update/2015/11/14/welcome-to-jekyll1.html</link>
+        <guid isPermaLink="true">https://dost-pro.github.io/blog//jekyll/update/2015/11/14/welcome-to-jekyll1.html</guid>
         
         <category>jekyll</category>
         
@@ -156,8 +156,8 @@
 
 </description>
         <pubDate>Sat, 14 Nov 2015 17:52:07 +0100</pubDate>
-        <link>http://localhost:4000/jekyll/update/2015/11/14/welcome-to-jekyll0.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2015/11/14/welcome-to-jekyll0.html</guid>
+        <link>https://dost-pro.github.io/blog//jekyll/update/2015/11/14/welcome-to-jekyll0.html</link>
+        <guid isPermaLink="true">https://dost-pro.github.io/blog//jekyll/update/2015/11/14/welcome-to-jekyll0.html</guid>
         
         <category>jekyll</category>
         
@@ -188,8 +188,8 @@
 
 </description>
         <pubDate>Sat, 14 Nov 2015 17:52:07 +0100</pubDate>
-        <link>http://localhost:4000/jekyll/update/2015/11/14/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2015/11/14/welcome-to-jekyll.html</guid>
+        <link>https://dost-pro.github.io/blog//jekyll/update/2015/11/14/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://dost-pro.github.io/blog//jekyll/update/2015/11/14/welcome-to-jekyll.html</guid>
         
         <category>jekyll</category>
         
