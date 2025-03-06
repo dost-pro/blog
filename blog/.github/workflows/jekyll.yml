@@ -1,0 +1,37 @@
+name: Deploy Jekyll site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Change to "gh-pages" if needed
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 3.1  # You can change to match your local Ruby version
+        bundler-cache: true
+
+    - name: Install Jekyll and Dependencies
+      run: |
+        bundle install
+
+    - name: Build the Jekyll Site
+      run: |
+        bundle exec jekyll build
+
+    - name: Deploy to GitHub Pages
+      uses: JamesIves/github-pages-deploy-action@4.1.5
+      with:
+        branch: gh-pages  # The branch where the site will be deployed
+        folder: _site      # The folder containing the generated site
